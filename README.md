@@ -17,7 +17,7 @@ Figuren bør opdateres når ændringsforslagene for 2016 offentliggøres.
 
 Dronningen
 ----------
-Et forsøg på at svare på spørgsmålet: **Hvor mange dronninger kan vi forsørge for ulandsbistanden?** Jeg har sammenholdt ulandsbistanden med udgiften til [Dronnigen](http://www.oes-cs.dk/bevillingslove/doctopic.cgi?book=BEVPUBL.FFL16&topic=1&searchtype=3).
+Et forsøg på at svare på spørgsmålet: **Hvor mange dronninger kan vi forsørge for ulandsbistanden?** Jeg har sammenholdt ulandsbistanden med udgiften til [Dronningen](http://www.oes-cs.dk/bevillingslove/doctopic.cgi?book=BEVPUBL.FFL16&topic=1&searchtype=3).
 
 De tal der er blevet sammenholdt er summen af: resultat fra 2014, budget for 2015, forslag for 2016 og budgetoverslag for 2017-2019.
 
