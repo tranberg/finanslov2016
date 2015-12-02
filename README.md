@@ -21,6 +21,8 @@ Et forsøg på at svare på spørgsmålet: **Hvor mange dronninger kan vi forsø
 
 De tal der er blevet sammenholdt er summen af: resultat fra 2014, budget for 2015, forslag for 2016 og budgetoverslag for 2017-2019.
 
+Figurerne skal læses som at den samlede udgift til fx Somalia i perioden 2014-2019 svarer til ca. to gange den samlede udgift til Dronningen i samme periode.
+
 ![afrika](img/queen-afrika-total.png)
 
 ![latin](img/queen-latin-total.png)
