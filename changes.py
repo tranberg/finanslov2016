@@ -20,6 +20,7 @@ def simpleaxis(ax):
         ax.spines[spine].set_visible(False)
     for spine in ['bottom', 'left']:
         ax.spines[spine].set_edgecolor(color)
+        ax.spines[spine].set_zorder(20)
     ax.tick_params(color=color, labelcolor=color)
     ax.get_xaxis().tick_bottom()
     ax.get_yaxis().tick_left()
@@ -51,12 +52,12 @@ for y in years:
 
 plt.figure(figsize=(10, 6))
 ax = plt.subplot(111)
-plt.bar(range(len(years)), changeList, color='#337AB7', edgecolor='#337AB7')
+plt.bar(range(len(years)), changeList, color='#337AB7', edgecolor='#337AB7', zorder=10)
 ax.set_xticklabels([str(years[i]) for i in range(len(years))], rotation=60, ha='right', va='top', fontsize=13)
 ax.set_xticks(np.linspace(.6, 12.6, 13))
 ax.yaxis.grid(True)
 ax.xaxis.set_tick_params(width=0)
-plt.axis([0, 12.8, 0, max(changeList) * 1.1])
+plt.axis([0, 12.8, 0, 10])
 plt.title(u'Sum af ekstraudgifter i ændringsforslag i procent af total foreslået udgift på paragraf-niveau')
 plt.ylabel('%')
 simpleaxis(ax)
